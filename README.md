@@ -3,6 +3,7 @@ This is client part of a simple chat app where messages flow through server to r
 - input the server IP address
 - choose between register and login
 - enjoy
+
 TODO:
 - encryption of msgs
 - GUI
